@@ -2,10 +2,10 @@
 This is for educational purposes only.
 
 Developers:
-Aniñon, Angelica
-Asuncion, Kyla Kyrlle
-Casas, Christiffany
-Descutido, Eunice
-Go, Christopher
-Nonoy, Bernadette
-Sta. Maria, Alexandria
+Aniñon, Angelica V.
+Asuncion, Kyla Kyrlle P.
+Casas, Christiffany B.
+Descutido, Eunice C.
+Go, Christopher S.
+Nonoy, Bernadette R.
+Sta. Maria, Alexandria D.
